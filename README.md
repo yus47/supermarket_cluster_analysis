@@ -1,4 +1,5 @@
 # Supermarket Cluster Analysis
+[Dataset Link](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)
 
 A supermarket owner seeks to understand their customers better by analyzing their membership card data. This information, including customer identification, age, gender, annual income, and spending habits, will enable the owner to tailor marketing strategies effectively. Identifying the target customer demographic is crucial for the success of a supermarket. It allows for:
 * **Tailored Marketing Strategies**: Creating targeted campaigns that resonate with specific customer segments.
