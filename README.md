@@ -1,11 +1,11 @@
 # Supermarket Cluster Analysis
-[Dataset Link](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)
-[Cluster 0 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_0_report.html)
-[Cluster 1 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_1_report.html)
-[Cluster 2 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_2_report.html)
-[Cluster 3 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_3_report.html)
-[Cluster 4 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_4_report.html)
-[Cluster 5 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_5_report.html)
+[Dataset Link](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)<br>
+[Cluster 0 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_0_report.html)<br>
+[Cluster 1 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_1_report.html)<br>
+[Cluster 2 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_2_report.html)<br>
+[Cluster 3 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_3_report.html)<br>
+[Cluster 4 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_4_report.html)<br>
+[Cluster 5 HTML report](https://htmlpreview.github.io/?https://github.com/yus47/supermarket_cluster_analysis/blob/main/cluster_5_report.html)<br>
 
 A supermarket owner seeks to understand their customers better by analyzing their membership card data. This information, including customer identification, age, gender, annual income, and spending habits, will enable the owner to tailor marketing strategies effectively. Identifying the target customer demographic is crucial for the success of a supermarket. It allows for:
 * **Tailored Marketing Strategies**: Creating targeted campaigns that resonate with specific customer segments.
